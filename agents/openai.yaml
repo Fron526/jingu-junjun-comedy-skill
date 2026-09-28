@@ -1,0 +1,6 @@
+interface:
+  display_name: "金桔俊俊式搞笑剧本"
+  short_description: "创作金桔抛歪理、正常角色被整的高密度双人台词喜剧"
+  default_prompt: "Use $jingu-junjun-comedy to write and audit a two-person Jinju absurd dialogue comedy."
+policy:
+  allow_implicit_invocation: true
